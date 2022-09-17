@@ -1,3 +1,6 @@
 Olá, mundo!
+<<<<<<< HEAD
 
 I am from Brazil!
+=======
+I'm Brazilian!
